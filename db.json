@@ -61,7 +61,15 @@
                "imageUrl":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/06/15/Chris-Pratt.jpg?w968h681"
             }
          ]
+      },
+        {
+         "title":"ویدیو",
+         "type":"VIDEO",
+         "data":[
+            {
+               "videoUrl":"http://techslides.com/demos/sample-videos/small.mp4"
+            }
+         ]
       }
-      
    ]
 }
