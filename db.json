@@ -18,25 +18,24 @@
                "username":"@hoseinOfficial",
                "imageUrl":"https://images2.minutemediacdn.com/image/upload/c_crop,h_1357,w_2016,x_0,y_0/v1582008115/shape/mentalfloss/573683-gettyimages-1171013004.jpg?itok=66fUf5U8"
             },
-             {
+            {
                "name":"mohamad",
                "username":"@mohamad",
                "imageUrl":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/06/15/Chris-Pratt.jpg?w968h681"
             },
-             {
+            {
                "name":"ali",
                "username":"@ali",
                "imageUrl":"https://images2.minutemediacdn.com/image/upload/c_crop,h_1357,w_2016,x_0,y_0/v1582008115/shape/mentalfloss/573683-gettyimages-1171013004.jpg?itok=66fUf5U8"
             },
-             {
+            {
                "name":"yasin",
                "username":"@yasin",
                "imageUrl":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/06/15/Chris-Pratt.jpg?w968h681"
             }
          ]
       },
-      
-       {
+      {
          "title":"رایگان ها",
          "type":"TEACHER",
          "data":[
@@ -45,24 +44,24 @@
                "username":"@hasan",
                "imageUrl":"https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.lehighvalleylive.com/home/lvlive-media/width2048/img/entertainment_impact/photo/20769691-standard.jpg"
             },
-             {
+            {
                "name":"hamid",
                "username":"@hamid",
                "imageUrl":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/26/13/7.jpg?w968h681"
             },
-             {
+            {
                "name":"alireza",
                "username":"@alireza",
                "imageUrl":"https://images2.minutemediacdn.com/image/upload/c_crop,h_1357,w_2016,x_0,y_0/v1582008115/shape/mentalfloss/573683-gettyimages-1171013004.jpg?itok=66fUf5U8"
             },
-             {
+            {
                "name":"amir",
                "username":"@amir",
                "imageUrl":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/06/15/Chris-Pratt.jpg?w968h681"
             }
          ]
       },
-        {
+      {
          "title":"ویدیو",
          "type":"VIDEO",
          "data":[
@@ -72,52 +71,48 @@
          ]
       }
    ],
-   
    "joz":[
-   
       {
-      "paye":"دهم انسانی",
-      "lesson":"اقتصاد",
-      "teacher":"محمد کاردان",
-      "price":25000,
-      "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/94-95/C133.jpg?itok=0TOzstcc"
-   },
-   {
-      "paye":"هشتم",
-      "lesson":"علوم",
-      "teacher":"حسین کامل",
-      "price":500000,
-      "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C110330.jpg?itok=Ur3qyOJ6"
-   },
-   {
-      "paye":"دهم ریاضی",
-      "lesson":"ریاضی",
-      "teacher":"محمد کاردان",
-      "price":3000,
-      "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C823.jpg?itok=g4LLqdRI"
-   },
-   {
-      "paye":"دهم ریاضی",
-      "lesson":"ریاضی",
-      "teacher":"محمد کاردان",
-      "price":40000,
-      "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C823.jpg?itok=g4LLqdRI"
-   },
-   {
-      "paye":"دهم ریاضی",
-      "lesson":"ریاضی",
-      "teacher":"محمد کاردان",
-      "price":1000,
-      "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C823.jpg?itok=g4LLqdRI"
-   },
-   {
-      "paye":"دهم ریاضی",
-      "lesson":"ریاضی",
-      "teacher":"محمد کاردان",
-      "price":33000,
-      "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C823.jpg?itok=g4LLqdRI"
-   }
-   
+         "paye":"دهم انسانی",
+         "lesson":"اقتصاد",
+         "teacher":"محمد کاردان",
+         "price":25000,
+         "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/94-95/C133.jpg?itok=0TOzstcc"
+      },
+      {
+         "paye":"هشتم",
+         "lesson":"علوم",
+         "teacher":"حسین کامل",
+         "price":500000,
+         "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C110330.jpg?itok=Ur3qyOJ6"
+      },
+      {
+         "paye":"دهم ریاضی",
+         "lesson":"ریاضی",
+         "teacher":"محمد کاردان",
+         "price":3000,
+         "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C823.jpg?itok=g4LLqdRI"
+      },
+      {
+         "paye":"دهم ریاضی",
+         "lesson":"ریاضی",
+         "teacher":"محمد کاردان",
+         "price":40000,
+         "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C823.jpg?itok=g4LLqdRI"
+      },
+      {
+         "paye":"دهم ریاضی",
+         "lesson":"ریاضی",
+         "teacher":"محمد کاردان",
+         "price":1000,
+         "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C823.jpg?itok=g4LLqdRI"
+      },
+      {
+         "paye":"دهم ریاضی",
+         "lesson":"ریاضی",
+         "teacher":"محمد کاردان",
+         "price":33000,
+         "image":"http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/98-99/C823.jpg?itok=g4LLqdRI"
+      }
    ]
-   
 }
