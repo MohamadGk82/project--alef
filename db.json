@@ -60,6 +60,15 @@
                "imageUrl":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/06/15/Chris-Pratt.jpg?w968h681"
             }
          ]
+      },
+       {
+         "title":"Banner",
+         "type":"BANNER",
+         "data":[
+            {
+               "imageUrl":"https://cdn.britannica.com/24/189624-131-BAF1184D/Mona-Lisa-oil-wood-panel-Leonardo-da.jpg"
+            }
+         ]
       }
    ],
    "joz":[
